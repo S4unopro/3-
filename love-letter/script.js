@@ -1,10 +1,14 @@
-const title = document.querySelector("h1");
-const text = document.querySelector("p");
+Microsoft Windows [Version Love 3.0]
 
-setTimeout(() => {
-    title.textContent = "Happy Anniversary ";
-}, 1000);
+C:\Users\MyLove> boot.exe
 
-setTimeout(() => {
-    text.textContent = "Together since 07/07/2023\nI love you forever ";
-}, 2500);
+Loading Memories...
+████████████ 100%
+
+Checking Heart...
+Status: Connected ❤️
+
+Opening letter...
+
+Dear My Love,
+...
